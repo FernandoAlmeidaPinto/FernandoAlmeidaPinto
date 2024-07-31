@@ -22,14 +22,14 @@
   <img align="center" alt="Fer-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Fer-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </div>
-
+</br>
 <div align="center"> 
   <a href = "mailto:fernando.almeida.pinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandoalmeidapinto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-  <a href="https://github.com/vcnafacul" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/vcnafacul/client-vcnafacul/e0d110f2aadd15e387da1173bd378a17c39e02f6/src/assets/images/home/logo.svg" alt="Logo" style="margin-right: 10px;">
-    <h4 style="margin: 0;">Você na Facul</h4>
+    </br>
+  <a href="https://github.com/vcnafacul" target="_blank">
+    <img src="https://raw.githubusercontent.com/vcnafacul/client-vcnafacul/e0d110f2aadd15e387da1173bd378a17c39e02f6/src/assets/images/home/logo.svg" alt="Logo" height="50">
   </a>
 </div>
 
