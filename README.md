@@ -1,5 +1,5 @@
 <h1 align="center">Hello, 👋 I'm Fernando Almeida</h1>
-<span align="center" style="display: flex; align-items: center; justify-content: center; height: 100%; margin: 20px 0;">At the heart of my professional journey is a core belief in the importance of nurturing human connections — "Cherish People More."</span>
+<span align="center" style="display: flex; align-items: center; justify-content: center; height: 100%; margin: 20px 0;">At the heart of my professional journey is a core belief in the importance of nurturing human connections — <i>Cherish People More</i></span>
 </br></br>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoalmeidapinto&show_icons=true&theme=cobalt" alt="fernandoalmeidapinto" />
