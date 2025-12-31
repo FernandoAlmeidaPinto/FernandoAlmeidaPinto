@@ -5,6 +5,11 @@ Software Engineer focused on building scalable systems, clean architectures and 
 <i>“Cherish people more — technology is a means, not the end.”</i>
 </p>
 
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoalmeidapinto&show_icons=true&theme=cobalt" alt="fernandoalmeidapinto" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoalmeidapinto&show_icons=true&locale=en&layout=compact" alt="fernandoalmeidapinto" />
+</div>
+
 ---
 
 ### 👨‍💻 About me
@@ -32,15 +37,6 @@ Software Engineer focused on building scalable systems, clean architectures and 
 
 **Databases**
 - PostgreSQL • MongoDB • Oracle • Mysql
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoalmeidapinto&show_icons=true&theme=cobalt" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoalmeidapinto&layout=compact&theme=cobalt" />
-</div>
 
 ---
 
