@@ -1,39 +1,66 @@
-<h1 align="center">Hello, 👋 I'm Fernando Almeida</h1>
-<span align="center" style="display: flex; align-items: center; justify-content: center; height: 100%; margin: 20px 0;">At the heart of my professional journey is a core belief in the importance of nurturing human connections — <i>Cherish People More</i></span>
-</br></br>
+<h1 align="center">Hi 👋, I'm Fernando Almeida</h1>
+
+<p align="center">
+Software Engineer focused on building scalable systems, clean architectures and meaningful products.<br/>
+<i>“Cherish people more — technology is a means, not the end.”</i>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+- 🎓 Bachelor’s degree in **Physics**
+- 💼 Experience in **fintech environments**, working with high-performance and scalable systems
+- 🧠 Strong background in **software architecture, backend development and distributed systems**
+- 🌍 Interested in **international opportunities** and continuous learning
+- ❤️ Founder & contributor of **Você na Facul** — a non-profit educational platform
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+- Java • C# • Python • TypeScript • JavaScript
+
+**Backend & Architecture**
+- Node.js • NestJS • Spring
+- Kafka • RabbitMQ • Airflow
+- REST APIs • Event-driven systems
+
+**Frontend**
+- React • HTML • CSS
+
+**Databases**
+- PostgreSQL • MongoDB • Oracle • Mysql
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoalmeidapinto&show_icons=true&theme=cobalt" alt="fernandoalmeidapinto" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoalmeidapinto&show_icons=true&locale=en&layout=compact" alt="fernandoalmeidapinto" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoalmeidapinto&show_icons=true&theme=cobalt" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoalmeidapinto&layout=compact&theme=cobalt" />
 </div>
 
-<div>
+---
 
-<div style="display: inline_block; margin: 10px 5px" align="center"><br>
-  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Fer-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fer-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="Fer-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Fer-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Fer-Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="Fer-MQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Fer-Flow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
-  
-</div>
-</br>
-<div align="center"> 
-  <a href = "mailto:fernando.almeida.pinto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernandoalmeidapinto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-    </br>
+### 🌱 Projects & Community
+
+<div align="center">
   <a href="https://github.com/vcnafacul" target="_blank">
-    <img src="https://raw.githubusercontent.com/vcnafacul/client-vcnafacul/e0d110f2aadd15e387da1173bd378a17c39e02f6/src/assets/images/home/logo.svg" alt="Logo" height="50">
+    <img src="https://raw.githubusercontent.com/vcnafacul/client-vcnafacul/e0d110f2aadd15e387da1173bd378a17c39e02f6/src/assets/images/home/logo.svg" height="50"/>
   </a>
 </div>
 
+---
+
+### 📫 Get in touch
+
+<div align="center">
+  <a href="mailto:fernando.almeida.pinto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fernandoalmeidapinto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
